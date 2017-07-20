@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "lib": ["es2015", "dom"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "../../dist/tools/gulp",
+    "noEmitOnError": true,
+    "target": "es5",
+    "types": [
+      "node"
+    ]
+  },
+  "files": [
+    "gulpfile.ts"
+  ]
+}
