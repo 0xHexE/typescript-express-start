@@ -1,0 +1,12 @@
+doctype html
+html(lang=getLocale())
+    head
+        meta(name="viewport" content="width=device-width, initial-scale=1")
+        meta(http-equiv="content-type" content="text/html; charset=utf-8")
+        meta(http-equiv="X-UA-Compatible" content="IE=edge,chrome=1")
+        each val in localsArray
+            link(rel="alternate" href= currentUrl + "?lang=" + val hreflang=val)
+        title #{title | 'F4-ERP'}
+    body
+        h1= title
+        p= subtitle
