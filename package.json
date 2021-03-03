@@ -51,7 +51,7 @@
     "passport-jwt": "^2.2.1",
     "passport-linkedin": "^1.0.0",
     "passport-twitter": "^1.0.4",
-    "pug": "^2.0.0",
+    "pug": "^3.0.1",
     "reflect-metadata": "^0.1.10",
     "typedi": "^0.5.2",
     "typeorm": "^0.1.0"
