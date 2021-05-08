@@ -54,7 +54,7 @@
     "pug": "^2.0.0",
     "reflect-metadata": "^0.1.10",
     "typedi": "^0.5.2",
-    "typeorm": "^0.1.0"
+    "typeorm": "^0.2.25"
   },
   "devDependencies": {
     "@types/body-parser": "^1.16.4",
